@@ -1,0 +1,31 @@
+img {
+    text-align: center;
+    height: 250px;
+    width: 250px;
+}
+
+#IMG {
+    height: 500px;
+    width: 500px;
+}
+
+#HULACAROUSEL img {
+    text-align: center;
+}
+
+#HULACAROUSEL {
+    background-color: greenyellow;
+}
+
+body {
+    text-align: center;
+    background-color: crimson;
+}
+
+.line {
+    height: 10px;
+    width: 200px;
+    margin: 4px auto;
+    background-color: rebeccapurple;
+    border-radius: 100px;
+}
